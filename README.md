@@ -158,3 +158,4 @@ IN Attendance Saved
 - Office Attendance Management
 - Employee Biometric Attendance
 - Small Organization Attendance Systems
+<img width="1920" height="1080" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/f7b49466-f334-4e4a-846a-2f8b8187d8de" />
