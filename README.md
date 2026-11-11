@@ -157,5 +157,7 @@ IN Attendance Saved
 - Colleges and Schools
 - Office Attendance Management
 - Employee Biometric Attendance
-- Small Organization Attendance Systems
+- Small Organization Attendance Systems<img width="848" height="478" alt="Project_Photo_02" src="https://github.com/user-attachments/assets/fa9c80d4-b597-4ca7-ab4d-ec1c68a0cfe7" />
+<img width="1672" height="941" alt="attendance" src="https://github.com/user-attachments/assets/c22cb4ea-0be7-47b2-8734-89bd1765aa65" />
+
 <img width="1920" height="1080" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/f7b49466-f334-4e4a-846a-2f8b8187d8de" />
