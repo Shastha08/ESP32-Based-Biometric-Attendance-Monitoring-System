@@ -1,4 +1,4 @@
-# 🔐 IoT-Based Fingerprint Attendance Management System using ESP32, R307S, DS3231, and Google Sheets
+# 🫆 IoT-Based Fingerprint Attendance Management System using ESP32, R307S, DS3231, and Google Sheets
 
 This project demonstrates an **IoT-based biometric attendance management system** using an ESP32 microcontroller and R307S fingerprint sensor. It identifies registered users through fingerprint authentication and records their attendance with real-time date and time using the DS3231 RTC module. Attendance details are automatically uploaded to Google Sheets through Wi-Fi for online monitoring and record management.
 
