@@ -21,7 +21,6 @@ This project demonstrates an **IoT-based biometric attendance management system*
 - R307S Fingerprint Sensor
 - DS3231 RTC Module
 - 16x2 I2C LCD Display
-- Wi-Fi Network
 - Jumper Wires
 - Power Supply
 
